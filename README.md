@@ -39,6 +39,62 @@
    npx hardhat run scripts/deploy.js --network berachainTestnet
 
 
+## 🚀 Features
+
+- ERC-4626 vault implementation
+- Share-based deposits and withdrawals
+- Yield compounding logic (partial)
+- Vault accounting & total assets tracking
+- Deployment scripts included
+
+---
+
+## 🧠 Concepts Explored
+
+- ERC-4626 Tokenized Vault Standard
+- Yield compounding mechanics
+- Share ↔ Asset conversions
+- Vault security considerations
+- Upgrade-safe contract structure
+
+---
+
+## 🛠 Tech Stack
+
+- **Solidity**
+- **Hardhat**
+- **OpenZeppelin Contracts**
+- **Ethers.js**
+
+---
+
+## 📄 Contract Overview
+
+- Vault contract implementing ERC-4626
+- Strategy logic (work-in-progress)
+- Deployment & configuration scripts
+
+---
+
+## ⚠️ Project Status
+
+🟡 **Partially Complete**
+
+- Core vault contracts implemented
+- Compounding strategy logic is **in progress**
+- Contracts are deployed for testing purposes
+
+> This repository is intended as a **learning and experimentation vault**, not production-ready.
+
+---
+
+## 📚 Learning Outcome
+
+- Deep understanding of ERC-4626 internals
+- Vault math & share accounting
+- Designing yield-bearing smart contracts
+
+
 
 
 
